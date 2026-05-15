@@ -7,3 +7,5 @@ a=5
 print(a)
 name="sam" 
 print("my name is",name)
+import keyword
+print(keyword.kwlist)
